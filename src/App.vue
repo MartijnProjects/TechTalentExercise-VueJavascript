@@ -79,7 +79,6 @@ export default {
   }
   .app.warm{
     background-image: url("./assets/warm-bg.jpg");
-    width: 100%;
   }
   main{
     min-height: 100vh;
